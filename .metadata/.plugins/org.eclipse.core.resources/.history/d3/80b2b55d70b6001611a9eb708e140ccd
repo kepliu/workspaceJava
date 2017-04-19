@@ -1,0 +1,6 @@
+
+public class Foo {
+  public void tst(){
+	  System.out.println("afdsa");
+  }
+}

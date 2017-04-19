@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Spring-Batch-Tutorial-Annotations/src/main/resources/output.csv&apos; to &apos;output1.csv&apos;" description="Rename resource &apos;output.csv&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/output.csv" name="output1.csv" stamp="1464120338371" updateReferences="true"/>
+</session>
